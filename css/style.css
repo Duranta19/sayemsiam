@@ -411,7 +411,7 @@ h2{
     #blogSection{
         display: block;
         border: 2px solid  rgb(0, 0, 0);
-        height: 4000px;
+        height: 4120px;
         width: 100%;
     } 
     .blog-single{
@@ -419,7 +419,7 @@ h2{
         border: 2px solid #81818191;
         background: #1d1c1c;
         width: 95%;
-        height: 650px;
+        height: 620px;
         margin: auto;
         margin-top: 10px;
         align-items: center;
