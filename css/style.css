@@ -291,7 +291,7 @@ h2{
     font-family: 'Poppins', sans-serif;
 
 }
-@media (max-width : 1052px){
+@media (max-width : 1252px){
     #resume{
         display: block;
         border: 2px solid rgb(0, 0, 0);
@@ -418,8 +418,8 @@ h2{
         display: block;
         border: 2px solid #81818191;
         background: #1d1c1c;
-        width: 400px;
-        height: 500px;
+        width: 420px;
+        height: 550px;
         margin: auto;
         margin-top: 10px;
         align-items: center;
